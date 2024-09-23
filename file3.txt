@@ -1,1 +1,5 @@
 Este e o exemplo de ficheiro de texto file3
+
+Ẽstou adicionando algumas linhas neste ficheiro
+
+E mais esta tambem!!
