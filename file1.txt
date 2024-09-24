@@ -4,3 +4,5 @@ Eliminei esta linha e escrevi esta
 Fiz uma alteracao neste ficheiro!!
 
 Alteracoes efetuadas no branch NovaFeature
+
+Novas alteracoes no branch NOVAFEATURE
