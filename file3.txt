@@ -3,3 +3,11 @@ Este e o exemplo de ficheiro de texto file3
 Ẽstou adicionando algumas linhas neste ficheiro
 
 E mais esta tambem!!
+
+<h2> Bebidas</h2>
+
+<ul>
+ <li>Coffe</li>
+ <li>Tea</li>
+ <li>Milk</li>
+</ul>
