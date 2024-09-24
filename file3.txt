@@ -4,10 +4,19 @@ Este e o exemplo de ficheiro de texto file3
 
 E mais esta tambem!!
 
+<<<<<<< HEAD
+<h2> Bebidas</h2>
+
+<ul>
+ <li>Coffe</li>
+ <li>Tea</li>
+ <li>Milk</li>
+=======
 <h2>Comidas</h2>
 
 <ul>
  <li>Bolos</li>
  <li>Tostas</li>
  <li>Sandes</li>
+>>>>>>> NovaFeature
 </ul>

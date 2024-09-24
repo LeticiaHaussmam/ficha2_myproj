@@ -6,3 +6,4 @@ Fiz uma alteracao neste ficheiro!!
 Alteracoes efetuadas no branch NovaFeature
 
 Novas alteracoes no branch NOVAFEATURE
+Alteracao no branch main
